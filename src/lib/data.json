@@ -1,0 +1,26 @@
+[
+	{
+		"id": 1,
+		"item": "milk",
+		"emoji": "🥛",
+		"price": 3
+	},
+	{
+		"id": 2,
+		"item": "cheese",
+		"emoji": "🧀",
+		"price": 7
+	},
+	{
+		"id": 3,
+		"item": "pizza",
+		"emoji": "🍕",
+		"price": 10
+	},
+	{
+		"id": 4,
+		"item": "beef",
+		"emoji": "🥩",
+		"price": 12
+	}
+]
